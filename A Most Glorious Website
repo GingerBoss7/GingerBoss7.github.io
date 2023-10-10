@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="UFT-8"
+    <meta name="viewport" content="width=device-width, initial-scale-1.0" />
+    <title>A Most Glorious Blank Screen</title>
+</head>
+
+<!--This is a CSS comment. CSS is used to style the webpage. Oooooh secret!!!!!!!!!-->
+<style>
+    body {
+        font-family: 'Courier New', "Brush Script MT", sans-serif;
+        background-color: grey
+    }
+</style>
+<body>
+    <nav style="color:lawngreen;">Navigation</nav>
+
+
+    <header> <h1 style="color:red;">Hello there sir welcome to this blank page!</h1></header>
+
+    <main>
+        <h2 style="color:blue">A Paragraph or Two.</h2>
+
+        <p style="color:lawngreen;">This is indeed a paragraph. It has words that make sentences, so thats pretty cool!</p>
+        <p style="color:lawngreen">This is yet another paragraph. Fairly unchanged but still pretty cool!</p>
+    </main>
+
+    <section>
+        <h3 style="color:blue;">
+            This is the second part of my webpage.
+
+    </section>
+
+    <section>
+        <h4 style="color:lawngreen;">This is a red tree!</h4>
+
+        <section><img src="tree.jpg" alt="no image for you hahahaha" width="120px" height="100px"</section>
+
+    </section>
+
+
+
+
+
+</body>
+
+
+
+
+
+</html>
